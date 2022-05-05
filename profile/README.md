@@ -1,6 +1,6 @@
 ## React-noob 💻⚛️ 
 
-- Esse nome surgiu quando um grupo de jovens estudantes do IFMA começou no mundo da programação e ainda hoje mesmo tendo conhecimento sobre React, ainda nós sentimos um noob 🥴
+- Esse nome surgiu quando um grupo de jovens estudantes do IFMA começou no mundo da programação e ainda hoje mesmo tendo conhecimento sobre React, ainda nos sentimos um noob 🥴.
 
 
 ## Site-Anime
